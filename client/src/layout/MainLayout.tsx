@@ -26,3 +26,5 @@ export default function MainLayout({ children }: MainLayoutProps) {
     </div>
   );
 }
+
+<link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
